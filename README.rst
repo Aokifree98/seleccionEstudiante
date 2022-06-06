@@ -1,3 +1,7 @@
+## INTEGRANTES
+- Cusicuna Mucha Grozny
+- Ordaya Loo Kin
+- Rodriguez Mallqui Maycol
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
